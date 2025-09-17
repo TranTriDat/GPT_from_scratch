@@ -1,0 +1,1 @@
+Study how to implement a simple GPT model
